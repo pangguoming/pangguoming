@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ## Contact | 联系方式
 
-|  [个人博客](https://pangguoming.com) | [GitHubIO](https://pangguoming.github.io) | [GitHub](https://github.com/pangguoming) | [微信公众号](http://neo4j.6laohu.com/Neo4j_weichat.jpg) |
+|  [个人博客](http://pangguoming.com) | [GitHubIO](https://pangguoming.github.io) | [GitHub](https://github.com/pangguoming) | [微信公众号](http://neo4j.6laohu.com/Neo4j_weichat.jpg) |
