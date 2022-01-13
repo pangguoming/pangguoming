@@ -15,4 +15,4 @@ Hi, I'm pangguoming, Fullstack developer from shandong, China.
 
 ### Contact | 联系方式
 
-|  [Blog](http://pangguoming.com) | [GitHubIO](https://pangguoming.github.io) | [GitHub](https://github.com/pangguoming) | [微信公众号](http://neo4j.6laohu.com/Neo4j_weichat.jpg) |
+|  [Blog](http://pangguoming.com) | [GitHubIO](https://pangguoming.github.io) | [GitHub](https://github.com/pangguoming) | [微信公众号](http://neo4j.6laohu.com/Neo4j_weichat.jpg) | [Neo4j中文社区](http://neo4j.com.cn) |
