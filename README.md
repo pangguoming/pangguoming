@@ -17,7 +17,7 @@ Hi, I'm pangguoming, Fullstack developer from shandong, China.
 |  [Blog](http://pangguoming.com) | [GitHubIO](https://pangguoming.github.io) | [GitHub](https://github.com/pangguoming) | [Email](pangguoming@yeah.net) |
 
 ### My Blogs 
-[AI-Helloworld](http://ai-hellowlod.com) |[Neo4j Community](http://neo4j.com.cn) |[My Note Book](http://blog.pangguoming.com) |
+[AI-Helloworld](http://ai-helloworld.com) |[Neo4j Community](http://neo4j.com.cn) |[My Note Book](http://blog.pangguoming.com) |
 
 ### My Product 
 |  [NeuroDB ](https://neurodb.org) | [Knowedge Graph SAAS](http://naotupu.com) | [Tool Software suit](http://6laohu.com) | 
