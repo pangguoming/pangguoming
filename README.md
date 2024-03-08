@@ -13,9 +13,6 @@ Hi, I'm pangguoming, Fullstack developer from shandong, China.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pangguoming&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="pangguoming's GitHub Stats">
 
-### Contact 
-|  [Blog](http://pangguoming.com) | [GitHubIO](https://pangguoming.github.io) | [GitHub](https://github.com/pangguoming) | [Email](pangguoming@yeah.net) |
-
 ### My Blogs 
 [AI-Helloworld](http://ai-helloworld.com) |[Neo4j Community](http://neo4j.com.cn) |[My Note Book](http://blog.pangguoming.com) |
 
